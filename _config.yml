@@ -1,0 +1,16 @@
+# Site settings
+title: QR Code Generator
+description: Generate QR codes for URLs, text, and contact information
+url: "https://qr.winnick.cloud"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins: []
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
